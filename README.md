@@ -1,1 +1,22 @@
-sss
+You will fin in 'intval.pdf' my master thesis (in French), supervised by K.Belabas and P.Molin,
+year 2020, Université Pierre-et-Marie-Curie, Paris, FRANCE. 
+
+Abstract : 
+
+The construction by M.Bhargava of a generalised factorial function in any Dedekind domain lead to
+an elegant caracterisation of integer-valued polynomials in D[X], as well as other submodules of such
+polynomials verifying more constraints. The construction is naturally algorithmic, and I provide
+in this thesis algorithms in the case where D is a number field, extending existing ones over Z.
+I provide also an implementation in C using the library Pari/GP of those algorithms, as well as 
+other related functions in the library named 'libfact' that you can find at
+
+                              https://github.com/vilanele/libfact
+                              
+This library provide more than 60 functions directly usable in a gp-session, or in C code eventually.
+See the library documentation for more details. Some examples are given in the thesis.
+
+
+
+
+
+
